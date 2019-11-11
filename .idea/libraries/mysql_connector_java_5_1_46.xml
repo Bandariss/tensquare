@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.46">
+    <CLASSES>
+      <root url="jar://E:/tensquare/logstash-5.6.8/mysqletc/mysql-connector-java-5.1.46.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
