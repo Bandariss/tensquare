@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\dao\ReplyDao.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\QaApplication.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Problem.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\client\BaseClient.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\service\ReplyService.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\controller\ProblemController.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\dao\ProblemDao.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\service\ProblemService.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Reply.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\config\InterceptorConfig.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\interceptor\JwtInteceptor.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\client\impl\BaseClientImpl.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\controller\ReplyController.java
+C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_qa\src\main\java\com\tensquare\qa\controller\BaseExceptionHandler.java

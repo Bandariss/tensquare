@@ -5,301 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bede4af2-e510-4890-afb0-3cb4eadd4af4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_46.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hs_err_pid3280.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hs_err_pid6960.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hs_err_pid7636.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/ArticleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/controller/BaseExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/controller/ChannelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/controller/ColumnController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/dao/ArticleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/dao/ChannelDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/dao/ColumnDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/pojo/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/pojo/Channel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/pojo/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/service/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/service/ChannelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/service/ColumnService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/ArticleApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/controller/ArticleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/controller/BaseExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/controller/ChannelController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/controller/ColumnController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/dao/ArticleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/dao/ChannelDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/dao/ColumnDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/pojo/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/pojo/Channel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/pojo/Column.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/service/ArticleService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/service/ArticleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/service/ChannelService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/service/ChannelService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/service/ColumnService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/service/ColumnService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/src/main/java/com/tensquare/base/BaseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/src/main/java/com/tensquare/base/controller/BaseExceptionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/src/main/java/com/tensquare/base/controller/LabelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/src/main/java/com/tensquare/base/dao/LabelDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/src/main/java/com/tensquare/base/pojo/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/src/main/java/com/tensquare/base/service/LabelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_base/target/tensquare_base-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/src/main/java/entity/PageResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/src/main/java/entity/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/src/main/java/entity/StatusCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/src/main/java/util/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/src/main/java/util/JwtUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/src/test/java/com/tensquare/jwt/CreateJwt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/classes/entity/PageResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/classes/entity/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/classes/entity/StatusCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/classes/util/IdWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/classes/util/JwtUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/tensquare_common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/target/test-classes/com/tensquare/jwt/CreateJwt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_common/tensquare_common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/src/main/java/com/tensquare/config/ConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/app.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/app.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/classes/com/tensquare/config/ConfigApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/docker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/docker/app.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_config/target/test-classes/image_info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_eureka/src/main/java/com/tensquare/eureka/EurekaServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_eureka/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_eureka/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_eureka/target/classes/com/tensquare/eureka/EurekaServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_eureka/tensquare_eureka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/FriendApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/client/UserClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/config/InterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/controller/FriendController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/dao/FriendDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/dao/NoFriendDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/interceptor/JwtInteceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/pojo/Friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/pojo/NoFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/service/FriendService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/FriendApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/client/UserClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/config/InterceptorConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/controller/FriendController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/dao/FriendDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/dao/NoFriendDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/interceptor/JwtInteceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/pojo/Friend.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/pojo/NoFriend.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_friend/target/classes/com/tensquare/friend/service/FriendService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/src/main/java/com/tensquare/gathering/GatheringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/src/main/java/com/tensquare/gathering/controller/BaseExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/src/main/java/com/tensquare/gathering/controller/GatheringController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/src/main/java/com/tensquare/gathering/dao/GatheringDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/src/main/java/com/tensquare/gathering/pojo/Gathering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/src/main/java/com/tensquare/gathering/service/GatheringService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/GatheringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/controller/BaseExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/controller/GatheringController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/dao/GatheringDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/pojo/Gathering.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/service/GatheringService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/service/GatheringService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_manager/src/main/java/com/tensquare/manager/ManagerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_manager/src/main/java/com/tensquare/manager/filter/ManagerFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_manager/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_manager/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_manager/target/classes/com/tensquare/manager/ManagerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_manager/target/classes/com/tensquare/manager/filter/ManagerFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_parent52.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/QaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/client/BaseClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/client/impl/BaseClientImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/config/InterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/controller/BaseExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/controller/ProblemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/controller/ReplyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/dao/ProblemDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/dao/ReplyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/interceptor/JwtInteceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/pojo/Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/pojo/Reply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/service/ProblemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/service/ReplyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/QaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/client/BaseClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/client/impl/BaseClientImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/config/InterceptorConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/controller/BaseExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/controller/ProblemController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/controller/ReplyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/dao/ProblemDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/dao/ReplyDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/interceptor/JwtInteceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/pojo/Problem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/pojo/Reply.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/service/ProblemService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/service/ProblemService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/service/ReplyService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_qa/target/classes/com/tensquare/qa/service/ReplyService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/src/main/java/com/tensquare/rabbit/RabbitApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/src/main/java/com/tensquare/rabbit/customer/Customer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/src/main/java/com/tensquare/rabbit/customer/Customer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/src/main/java/com/tensquare/rabbit/customer/Customer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/src/test/java/com/tensquare/test/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/target/classes/com/tensquare/rabbit/RabbitApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/target/classes/com/tensquare/rabbit/customer/Customer1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/target/classes/com/tensquare/rabbit/customer/Customer2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/target/classes/com/tensquare/rabbit/customer/Customer3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_rabbitmq_test/target/test-classes/com/tensquare/test/ProductTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/RecruitApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/controller/BaseExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/controller/EnterpriseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/controller/RecruitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/dao/EnterpriseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/dao/RecruitDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/pojo/Enterprise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/pojo/Recruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/service/EnterpriseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/java/com/tensquare/recruit/service/RecruitService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/RecruitApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/controller/BaseExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/controller/EnterpriseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/controller/RecruitController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/dao/EnterpriseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/dao/RecruitDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/pojo/Enterprise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/pojo/Recruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/service/EnterpriseService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/service/EnterpriseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/service/RecruitService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/classes/com/tensquare/recruit/service/RecruitService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_recruit/target/tensquare_recruit-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/SearchApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/dao/ArticleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/pojo/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/service/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/target/classes/com/tensquare/search/SearchApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/target/classes/com/tensquare/search/controller/ArticleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/target/classes/com/tensquare/search/dao/ArticleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/target/classes/com/tensquare/search/pojo/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_search/target/classes/com/tensquare/search/service/ArticleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/src/main/java/com/tensquare/sms/SmsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/src/main/java/com/tensquare/sms/listener/SmsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/src/main/java/com/tensquare/sms/util/SmsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/target/classes/com/tensquare/sms/SmsApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/target/classes/com/tensquare/sms/listener/SmsListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_sms/target/classes/com/tensquare/sms/util/SmsUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/src/main/java/com/tensquare/spit/SpitApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/src/main/java/com/tensquare/spit/controller/SpitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/src/main/java/com/tensquare/spit/dao/SpitDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/src/main/java/com/tensquare/spit/pojo/Spit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/src/main/java/com/tensquare/spit/service/SpitService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/target/classes/com/tensquare/spit/SpitApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/target/classes/com/tensquare/spit/controller/SpitController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/target/classes/com/tensquare/spit/dao/SpitDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/target/classes/com/tensquare/spit/pojo/Spit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_spit/target/classes/com/tensquare/spit/service/SpitService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/UserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/config/InterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/controller/BaseExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/dao/AdminDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/interceptor/JwtInteceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/pojo/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/UserApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/config/InterceptorConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/config/WebSecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/AdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/BaseExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/dao/AdminDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/interceptor/JwtInteceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/pojo/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/AdminService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/AdminService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/UserService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/src/main/java/com/tensquare/web/WebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/src/main/java/com/tensquare/web/filter/WebFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/target/classes/com/tensquare/web/WebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/target/classes/com/tensquare/web/filter/WebFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensquare_web/tensquare_web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_article/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_article/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/controller/ArticleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_article/target/classes/com/tensquare/article/controller/ArticleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_base/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_base/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_base/target/tensquare_base-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_base/target/tensquare_base-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_common/target/tensquare_common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_common/target/tensquare_common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_eureka/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_eureka/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/service/GatheringService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_gathering/target/classes/com/tensquare/gathering/service/GatheringService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_recruit/target/tensquare_recruit-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_recruit/target/tensquare_recruit-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -348,59 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensquare_config/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/tensquare_eureka/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
-              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4887">
-              <caret line="208" column="33" selection-start-line="208" selection-start-column="33" selection-end-line="208" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/UserApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensquare_sms/src/main/java/com/tensquare/sms/listener/SmsListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensquare_base/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="129">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -408,17 +78,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensquare_base/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+            <state relative-caret-position="156">
+              <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensquare_config/src/main/resources/application.yml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensquare_base/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="162">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -478,18 +148,18 @@
         <option value="$PROJECT_DIR$/tensquare_manager/src/main/java/com/tensquare/manager/ManagerApplication.java" />
         <option value="$PROJECT_DIR$/tensquare_manager/src/main/java/com/tensquare/manager/filter/ManagerFilter.java" />
         <option value="$PROJECT_DIR$/tensquare_config/src/main/java/com/tensquare/config/ConfigApplication.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/tensquare_eureka/pom.xml" />
         <option value="$PROJECT_DIR$/tensquare_user/pom.xml" />
         <option value="$PROJECT_DIR$/tensquare_web/pom.xml" />
         <option value="$PROJECT_DIR$/tensquare_manager/pom.xml" />
-        <option value="$PROJECT_DIR$/tensquare_eureka/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/tensquare_manager/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/tensquare_user/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/tensquare_web/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/tensquare_config/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/tensquare_base/pom.xml" />
         <option value="$PROJECT_DIR$/tensquare_config/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_eureka/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_base/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_base/src/main/resources/bootstrap.yml" />
       </list>
     </option>
   </component>
@@ -504,15 +174,6 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tensquare_common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tensquare_common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="tensquare_config" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -545,9 +206,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="979" />
-    <option name="y" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="963" />
+    <option name="y" value="-22" />
     <option name="width" value="917" />
     <option name="height" value="1099" />
   </component>
@@ -557,7 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -568,13 +228,104 @@
             <path>
               <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
               <item name="tensquare_config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,11 +346,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_web\src\main\resources" />
+      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_user\src\main\resources" />
+      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_manager\src\main\resources" />
+      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_eureka\src\main\resources" />
+      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_friend\src\main\java\com\tensquare\friend" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.tensquare.friend.dao" />
@@ -608,12 +363,8 @@
       <recent name="com.tensquare.qa.config" />
       <recent name="com.tensquare.qa.interceptor" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_web\src\main\resources" />
-      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_user\src\main\resources" />
-      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_manager\src\main\resources" />
-      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_eureka\src\main\resources" />
-      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52\tensquare_friend\src\main\java\com\tensquare\friend" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\GitHub\tensquare_parent52" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -628,7 +379,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BaseApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaServer">
     <configuration name="BaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="tensquare_base" />
       <extension name="coverage">
@@ -720,9 +471,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaServer" />
         <item itemvalue="Spring Boot.BaseApplication" />
         <item itemvalue="Spring Boot.WebApplication" />
-        <item itemvalue="Spring Boot.EurekaServer" />
         <item itemvalue="Spring Boot.ConfigApplication" />
         <item itemvalue="Spring Boot.ManagerApplication" />
       </list>
@@ -770,8 +521,33 @@
       <workItem from="1573437511153" duration="6782000" />
       <workItem from="1573460825141" duration="632000" />
       <workItem from="1573461520831" duration="1184000" />
-      <workItem from="1573464184859" duration="1187000" />
+      <workItem from="1573464184859" duration="2006000" />
+      <workItem from="1573525993562" duration="2085000" />
+      <workItem from="1573529403561" duration="992000" />
+      <workItem from="1573538557179" duration="2034000" />
     </task>
+    <task id="LOCAL-00001" summary="tensquare">
+      <created>1573470203880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573470203880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1573528670361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573528670361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1573538761843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573538761843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -795,7 +571,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162854000" />
+    <option name="totallyTimeSpent" value="168784000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,10 +583,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="979" y="-7" width="917" height="1099" extended-state="0" />
-    <editor active="true" />
+    <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36172694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18075639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -820,16 +595,16 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49708286" weight="0.2536232" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49708286" weight="0.4126819" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30425754" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32917964" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3284974" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32815734" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5029172" side_tool="true" weight="0.2536232" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32401657" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5029172" side_tool="true" visible="true" weight="0.4261954" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32331607" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32952183" />
@@ -887,10 +662,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tensquare" />
-    <option name="LAST_COMMIT_MESSAGE" value="tensquare" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensquare_friend/src/main/java/com/tensquare/friend/config/WebSecurityConfig.java" />
     <entry file="file://$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/config/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -1197,20 +972,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_eureka/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_manager/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -1234,8 +995,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_config/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        <state relative-caret-position="518">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_eureka/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1251,7 +1019,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_user/src/main/java/com/tensquare/user/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4887">
+        <state relative-caret-position="4779">
           <caret line="208" column="33" selection-start-line="208" selection-start-column="33" selection-end-line="208" selection-end-column="33" />
         </state>
       </provider>
@@ -1270,24 +1038,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_base/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/tensquare_config/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="432">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_eureka/src/main/java/com/tensquare/eureka/EurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_base/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+        <state relative-caret-position="156">
+          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_config/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/tensquare_base/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="162">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1377,5 +1159,9 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean install" />
   </component>
 </project>
